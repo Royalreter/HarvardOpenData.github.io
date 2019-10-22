@@ -65,6 +65,12 @@ people:
         image: latanya-sweeney.png
         role: mentor
         bio: Latanya Sweeney is a Professor of Government and Technology at Harvard.
+    -   name: Benji Kan
+        image: benji-kan.png
+        role: bootcamper
+        bio: I'm a first-year in Greenough planning to study Physics and Computer Science. Outside of HODP, I am involved with the Harvard-MIT Math Tournament (HMMT), Harvard Undergraduate Science Olympiad (HUSO), and AADT (Asian American Dance Troupe).
+        house: Greenough
+        year: 2023       
     -   name: Jeffrey He
         email: jdhe@college.harvard.edu
         role: presemeritus
